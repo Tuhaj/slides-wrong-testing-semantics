@@ -1,19 +1,14 @@
-# WarsawJS Meetup: Slides template
+# WarsawJS Meetup: What's fundamentally wrong in testing semantics?
 
-:clipboard: Slides for `WarsawJS Meetup`
+:clipboard: Slides for `WarsawJS Meetup: What's fundamentally wrong in testing semantics?`
 
 ## Preview
 
-<https://warsawjs.github.io/meetup-slides-template>
+<https://tuhaj.github.io/slides-wrong-testing-semantics/>
 
 ## Organization logo
 
 <img src="./vendors/shower-warsawjs/images/logo.svg" width="350"/>
-
-## Colors
-
-* Yellow: `#f0db4f` (JavaScript Color)
-* Red: `#f7302f` (WarsawJS Color)
 
 ## License
 
